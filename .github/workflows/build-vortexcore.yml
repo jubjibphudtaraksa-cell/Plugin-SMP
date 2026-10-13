@@ -21,4 +21,3 @@ jobs:
         with:
           name: VortexCore
           path: VortexCore/target/VortexCore-1.0.0.jar
-j
